@@ -13,7 +13,7 @@ Ce script permet de vérifier l'état des sauvegardes sur un NAS Synology, de g�
 
 1. Clonez ce repository sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/backup-solution.git
+   git clone https://github.com/S1CH1/backup-solution.git
 
 ## Personnalisation nécessaire
 
