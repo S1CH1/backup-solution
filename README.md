@@ -1,7 +1,5 @@
 # backup-solution
 
-# Backup Solution
-
 Ce script permet de vérifier l'état des sauvegardes sur un NAS Synology, de générer un rapport indiquant les sauvegardes valides ou obsolètes, et d'envoyer ce rapport par mail.
 
 ## Fonctionnalités
